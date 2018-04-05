@@ -291,6 +291,7 @@ One new aspect of advanced research computing is of particular interest to the h
       <li>Introduction to the Research Data Life cycle</li>
       <li>Components of a Data Management Plan</li>
       <li>Implementing a Data Management Plan for your research project</li>
+      <li>Portage's <a href="https://assistant.portagenetwork.ca/">Data Management Plan Assistant</a></li>
     </ul>
   </div>
   <div class="col-md-6">
