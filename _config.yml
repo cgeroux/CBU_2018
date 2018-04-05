@@ -6,7 +6,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Introduction to Compute Canada Cloud"
+title: "CBU 2018"
 
 # Contact email address.
 email: chris.geroux@ace-net.ca
@@ -56,7 +56,9 @@ collections:
   extras:
     output: true
     permalink: /:path/index.html
-
+  bios:
+    output: true
+  
 # Set the default layout for things in the episodes collection.
 defaults:
   - values:
@@ -66,6 +68,12 @@ defaults:
       type: episodes
     values:
       layout: episode
+      root: ..
+  - scope:
+      path: ""
+      type: bios
+    values:
+      layout: page
       root: ..
 
 # Files and directories that are not to be copied.
