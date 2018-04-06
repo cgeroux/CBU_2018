@@ -217,7 +217,7 @@ One new aspect of advanced research computing is of particular interest to the h
       <tr> <td>10:00</td>  <td>Coffee</td> </tr>
       <tr> <td>10:30</td>  <td>Research Data Management Workshop</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td><a href="https://cgeroux.github.io/DH-cloud-course/reference/">Cloud Powering DH Research</a></td> </tr>
+      <tr> <td>13:00</td>  <td><a href="https://cgeroux.github.io/DH-cloud-course/">Cloud Powering DH Research</a></td> </tr>
       <tr> <td>14:30</td>  <td>Coffee</td> </tr>
       <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
       <tr> <td>16:30</td>  <td>END</td> </tr>
@@ -226,10 +226,10 @@ One new aspect of advanced research computing is of particular interest to the h
   <div class="col-md-6">
     <h3>Wednesday, May 2<sup>nd</sup></h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td><a href="https://cgeroux.github.io/DH-cloud-course/reference/">Cloud Powering DH Research</a> cont.</td> </tr>
+      <tr> <td>09:00</td>  <td><a href="https://cgeroux.github.io/DH-cloud-course/">Cloud Powering DH Research</a> cont.</td> </tr>
       <tr> <td>10:00</td>  <td>Coffee</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td><a href="https://cgeroux.github.io/DH-cloud-course/reference/">Cloud Powering DH Research</a> cont.</td> </tr>
+      <tr> <td>13:00</td>  <td><a href="https://cgeroux.github.io/DH-cloud-course/">Cloud Powering DH Research</a> cont.</td> </tr>
       <tr> <td>14:30</td>  <td>Coffee</td> </tr>
       <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
       <tr> <td>16:30</td>  <td>END</td> </tr>
