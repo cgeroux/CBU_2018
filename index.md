@@ -197,17 +197,7 @@ One new aspect of advanced research computing is of particular interest to the h
 
 {% comment %} DO NOT EDIT SURVEY LINKS {% endcomment %}
 <p><em>Surveys</em></p>
-{% if page.carpentry == "swc" %} 
-<p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% elsif page.carpentry == "dc" %}
-  <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.dc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% elsif page.carpentry == "lc" %}
-<p>Ask your instructor about pre- and post-workshop Survey details.</p>
-{% endif %}
+<p>Please be sure to complete this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUZwcCipuDJsZi7lzik-r0M-__qG24HfA0kp2u9S6lHSMOSg/viewform?usp=sf_link">survey</a> after the workshop.</p>
 
 <div class="row">
   <div class="col-md-6">
