@@ -195,7 +195,6 @@ One new aspect of advanced research computing is of particular interest to the h
 {% endcomment %}
 <h2 id="schedule">Schedule</h2>
 
-{% comment %} DO NOT EDIT SURVEY LINKS {% endcomment %}
 <p><em>Surveys</em></p>
 <p>Please be sure to complete this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUZwcCipuDJsZi7lzik-r0M-__qG24HfA0kp2u9S6lHSMOSg/viewform?usp=sf_link">survey</a> after the workshop.</p>
 
@@ -207,7 +206,7 @@ One new aspect of advanced research computing is of particular interest to the h
       <tr> <td>10:00</td>  <td>Coffee</td> </tr>
       <tr> <td>10:30</td>  <td>Research Data Management Workshop</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td><a href="https://cgeroux.github.io/DH-cloud-course/">Cloud Powering DH Research</a></td> </tr>
+      <tr> <td>13:00</td>  <td><a href="https://cgeroux.github.io/CBU-DH-cloud-course/">Cloud Powering DH Research</a></td> </tr>
       <tr> <td>14:30</td>  <td>Coffee</td> </tr>
       <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
       <tr> <td>16:30</td>  <td>END</td> </tr>
@@ -216,10 +215,10 @@ One new aspect of advanced research computing is of particular interest to the h
   <div class="col-md-6">
     <h3>Wednesday, May 2<sup>nd</sup></h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td><a href="https://cgeroux.github.io/DH-cloud-course/">Cloud Powering DH Research</a> cont.</td> </tr>
+      <tr> <td>09:00</td>  <td><a href="https://cgeroux.github.io/CBU-DH-cloud-course/">Cloud Powering DH Research</a> cont.</td> </tr>
       <tr> <td>10:00</td>  <td>Coffee</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td><a href="https://cgeroux.github.io/DH-cloud-course/">Cloud Powering DH Research</a> cont.</td> </tr>
+      <tr> <td>13:00</td>  <td><a href="https://cgeroux.github.io/CBU-DH-cloud-course/">Cloud Powering DH Research</a> cont.</td> </tr>
       <tr> <td>14:30</td>  <td>Coffee</td> </tr>
       <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
       <tr> <td>16:30</td>  <td>END</td> </tr>
@@ -277,7 +276,7 @@ One new aspect of advanced research computing is of particular interest to the h
       <li>Creating a Self-Signed SSL Certificate</li>
       <li>Creating a WordPress site</li>
       <li>Demo using Heat to create a mediawiki site</li>
-      <li><a href="https://cgeroux.github.io/DH-cloud-course/reference/">Reference...</a></li>
+      <li><a href="https://cgeroux.github.io/CBU-DH-cloud-course/reference/">Reference...</a></li>
     </ul>
   </div>
 </div>
