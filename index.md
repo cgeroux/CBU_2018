@@ -275,7 +275,7 @@ One new aspect of advanced research computing is of particular interest to the h
       <li>Creating a web server</li>
       <li>Creating a Self-Signed SSL Certificate</li>
       <li>Creating a WordPress site</li>
-      <li>Demo using Heat to create a mediawiki site</li>
+      <li>Use Heat to create a mediawiki site</li>
       <li><a href="https://cgeroux.github.io/CBU-DH-cloud-course/reference/">Reference...</a></li>
     </ul>
   </div>
