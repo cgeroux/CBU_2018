@@ -202,7 +202,7 @@ One new aspect of advanced research computing is of particular interest to the h
   <div class="col-md-6">
     <h3>Tuesday, May 1<sup>st</sup></h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>Is Advanced Computing For Me?</td> </tr>
+      <tr> <td>09:00</td>  <td>How Can Advanced Computing Expand My Research?</td> </tr>
       <tr> <td>10:00</td>  <td>Coffee</td> </tr>
       <tr> <td>10:30</td>  <td>Research Data Management Workshop</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
@@ -247,7 +247,7 @@ One new aspect of advanced research computing is of particular interest to the h
 <h2 id="syllabus">Syllabus</h2>
 <div class="row">
   <div class="col-md-6">
-    <h3 id="syllabus-shell">Is Advanced Computing For Me?</h3>
+    <h3 id="syllabus-shell">How Can Advanced Computing Expand My Research?</h3>
     <ul>
       <li>Topic 1</li>
       <li>Topic 2</li>
@@ -275,7 +275,7 @@ One new aspect of advanced research computing is of particular interest to the h
       <li>Creating a web server</li>
       <li>Creating a Self-Signed SSL Certificate</li>
       <li>Creating a WordPress site</li>
-      <li>Demo using Heat to create a mediawiki site</li>
+      <li>Use Heat to create a mediawiki site</li>
       <li><a href="https://cgeroux.github.io/CBU-DH-cloud-course/reference/">Reference...</a></li>
     </ul>
   </div>
