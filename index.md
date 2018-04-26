@@ -249,10 +249,10 @@ One new aspect of advanced research computing is of particular interest to the h
   <div class="col-md-6">
     <h3 id="syllabus-shell">How Can Advanced Computing Expand My Research?</h3>
     <ul>
-      <li>Topic 1</li>
-      <li>Topic 2</li>
-      <li>...</li>
-      <li><a href="">Reference...</a></li>
+      <li>What is advanced computing?</li>
+      <li>What can be done with advanced computing?</li>
+      <li>What is ACENET and Compute Canada?</li>
+      <li>What has been done with advanced computing?</li>
     </ul>
   </div>
   <div class="col-md-6">
