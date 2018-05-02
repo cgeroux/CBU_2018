@@ -204,7 +204,7 @@ One new aspect of advanced research computing is of particular interest to the h
     <table class="table table-striped">
       <tr> <td>09:00</td>  <td><a href="https://docs.google.com/presentation/d/e/2PACX-1vSJDWVxz68biX6NtfMS0MntS0y3dTuwj1RjVRHqDMOKebRqvaPDBVeLgfCcTXbHuF5VbJa377JVa9Ez/pub?start=false&loop=false&delayms=3000">How Can Advanced Computing Expand My Research?</a></td> </tr>
       <tr> <td>10:00</td>  <td>Coffee</td> </tr>
-      <tr> <td>10:30</td>  <td>Research Data Management Workshop</td> </tr>
+      <tr> <td>10:30</td>  <td><a href="https://docs.google.com/presentation/d/e/2PACX-1vRvosvUQSrfmaV-fZFQHeO9YKRSSY_Itg9Ith5aRrDB--9gOQtvLcCHqP_sU3ICsaQBbnWxZr2Loyj8/pub?start=false&loop=false&delayms=3000">Research Data Management Workshop</a></td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
       <tr> <td>13:00</td>  <td><a href="https://cgeroux.github.io/CBU-DH-cloud-course/">Cloud Powering DH Research</a></td> </tr>
       <tr> <td>14:30</td>  <td>Coffee</td> </tr>
